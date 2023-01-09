@@ -13,7 +13,7 @@ export default function Portfolio() {
       <h5>Recent Projects</h5>
       <h2>My Portoflio</h2>
       <div className='container portfolio__container'>
-        {portfolioItems.map(({ id, image, title, github, demo, stack }) => (
+        {portfolioItems.map(({ id, image, title, github, demo, stack, oneline }) => (
           <article
             className='portfolio__item'
             key={id}
@@ -48,6 +48,15 @@ export default function Portfolio() {
                   {icon}
                 </h5>
               ))}
+            </div>
+            <div className='portfolio__item-oneline'>
+              <a
+                key={id}
+                target='_blank'
+                rel='noopener noreferrer'
+              >
+                <h4>{oneline}</h4>
+              </a>
             </div>
             <div className='portfolio__item-call-to-action'>
               <a
