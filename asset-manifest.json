@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c217e392.css",
-    "main.js": "/static/js/main.f51ef359.js",
+    "main.js": "/static/js/main.02f8e3cf.js",
     "static/media/blackjack.png": "/static/media/blackjack.26d32db81c4b05a679e5.png",
     "static/media/full.png": "/static/media/full.689dad1b3e3398539a1f.png",
     "static/media/Dotify.png": "/static/media/Dotify.4770ce477baa29e46630.png",
@@ -9,13 +9,13 @@
     "static/media/YouBuy.png": "/static/media/YouBuy.f625d0468b5595069a0d.png",
     "static/media/AmusmentPark.png": "/static/media/AmusmentPark.6421f8eb79d6813b9837.png",
     "static/media/me-pfp-removebg-preview.png": "/static/media/me-pfp-removebg-preview.f2e81e4cf1ed08a5a8af.png",
-    "static/media/JuniousResume.pdf": "/static/media/JuniousResume.fdc41900f2d29851dabf.pdf",
+    "static/media/JuniousResume.pdf": "/static/media/JuniousResume.4452e781aa805282001c.pdf",
     "index.html": "/index.html",
     "main.c217e392.css.map": "/static/css/main.c217e392.css.map",
-    "main.f51ef359.js.map": "/static/js/main.f51ef359.js.map"
+    "main.02f8e3cf.js.map": "/static/js/main.02f8e3cf.js.map"
   },
   "entrypoints": [
     "static/css/main.c217e392.css",
-    "static/js/main.f51ef359.js"
+    "static/js/main.02f8e3cf.js"
   ]
 }
